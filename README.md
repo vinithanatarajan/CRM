@@ -1,5 +1,5 @@
 # CRM
-The goal of this Personal Project is to build a client side web application.
+The goal of this Personal Project is to build a client side web application which is an online customer relationship management app.
 
 ### My learning objectives were:
 Write custom event handlers in JavaScript or jQuery.
