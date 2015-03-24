@@ -1,9 +1,9 @@
 # CRM
 The goal of this Personal Project is to build a client side web application.
 
-Learning Objectives
+### Learning Objectives
 
-My learning objectives were
+-**My learning objectives were**
 Write custom event handlers in JavaScript or jQuery
 Use AJAX to retrieve HTML from the server and replace or append them to a website
 Use AJAX to retrieve JSON from the server and then modify the page based on the JSON
